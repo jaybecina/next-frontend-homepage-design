@@ -1,0 +1,20 @@
+.curvedBackgroundGradient {
+  background: radial-gradient(
+    circle 400px at 30% 10%,
+    #2d68c4 20%,
+    #1f305e 100%
+  );
+  height: 100vh;
+}
+
+.homeTitle {
+  font-family: "Druk Wide Bold", sans-serif;
+}
+
+.homeDesc {
+  font-family: "Rubik", sans-serif;
+}
+
+.homeButton {
+  font-family: "Druk Wide Bold", sans-serif;
+}
